@@ -17,6 +17,10 @@ Tela de Administrador
 
 ![Tela de Administrador](https://i.imgur.com/QjsyXNZ.png)
 
+ Tela de Usuário
+
+![Tela de Usuário](https://i.imgur.com/ACRfG4B.png)
+
 # Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
