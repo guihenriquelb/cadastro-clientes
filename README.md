@@ -4,9 +4,9 @@
 
 # Sobre o projeto
 
-🚀 Neste desafio foi proposto criar uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
+🚀 Neste projeto foi proposto criar um sistema onde é possível cadastrar clientes. Contando com niveis de acesso, onde "Administrador" pode visualizar, cadastrar, editar e deletar clientes e "Usuário" pode visualizar clientes.
 
-Neste projeto foi proposto criar um sistema onde é possível cadastrar clientes. Contando com niveis de acesso, onde "Administrador" pode visualizar, cadastrar, editar e deletar clientes e "Usuário" pode visualizar clientes.
+
 
 ## Layout 
 Tela de login
